@@ -1,0 +1,1 @@
+.animated-list{width:100%}.animated-list__item{will-change:transform,opacity}.animated-list__item.is-selected .strength{background:linear-gradient(90deg,rgba(214,255,59,.18),transparent 70%);border-color:#91ab10}.animated-list__item.is-selected .strength>.arrow{transform:translate(4px,-4px)}
